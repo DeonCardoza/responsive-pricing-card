@@ -1,6 +1,6 @@
 # Responsive Pricing Card
 
-## [Watch it on YouTube](https://www.youtube.com/c/DeonCardoza)
+## [Watch it on YouTube](https://youtu.be/ID7ODwgwfOU)
 
 **Responsive Pricing Card** <br>
 
